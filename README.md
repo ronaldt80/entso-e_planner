@@ -1,3 +1,6 @@
+##### WORK IN PROGRESS #####
+
+
 # nordpool_planner custom component for Home Assistant
 
 Requires https://github.com/custom-components/nordpool
